@@ -6,5 +6,5 @@ const firebaseConfig = {
   storageBucket: "benflix-5a591.appspot.com",
   messagingSenderId: "460872649830",
   appId: "1:460872649830:web:bb50bae8813f6a39f2b1a7",
-  measurementId: "G-6QWRR500L9"
+  measurementId: "G-6QWRR500L9",
 };

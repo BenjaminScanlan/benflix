@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import "./nav.css"
 
-
 function Nav() {
     const [show, handeShow] = useState( false);
 
